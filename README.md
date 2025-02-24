@@ -4,19 +4,20 @@
 ### Visualizing Population Distribution
 
 
-📄Description
+#### 📄Description
+
 For this task, I was assigned to create a histogram and a bar chart to visualize the world population distribution using a dataset.
 
 
-📊 Dataset
+#### 📊 Dataset
 Sample Dataset: I selected the World Population Data from a CSV file. This dataset contains population statistics for different countries.
 
 
-📌 Categorical Data Selection
+#### 📌 Categorical Data Selection
 I chose the Country column as the categorical data and the 2022 population values for analysis.
 
 
-🔍 Data Analysis in Python
+#### 🔍 Data Analysis in Python
 Data Cleaning: Dropped unnecessary columns, renamed relevant ones, and removed missing values.
 
 
@@ -26,7 +27,7 @@ Histogram: Used seaborn to create a histogram representing the distribution of p
 Bar Chart: Selected a few countries to compare their populations visually.
 
 
-🛠 Steps to Create the Visualization
+#### 🛠 Steps to Create the Visualization
 
 
 🔹 Data Import: Loaded the world population dataset using pandas.
@@ -48,13 +49,14 @@ Used seaborn.barplot() to compare their population sizes.
 🔹 Chart Customization: Added titles, axis labels, and color palettes for clarity.
 
 
-📊 Output
+#### 📊 Output
 
 
 The histogram effectively shows the distribution of population sizes, while the bar chart provides a direct comparison of selected countries' populations.
 
 
-📈 Impact
+#### 📈 Impact
+
 This visualization helps in understanding:
 
 
