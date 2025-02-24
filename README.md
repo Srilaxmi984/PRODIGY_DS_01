@@ -30,6 +30,8 @@ Bar Chart: Selected a few countries to compare their populations visually.
 
 
 🛠 Steps to Create the Visualization
+
+
 🔹 Data Import: Loaded the world population dataset using pandas.
 
 
@@ -55,6 +57,8 @@ The histogram effectively shows the distribution of population sizes, while the 
 
 📈 Impact
 This visualization helps in understanding:
+
+
 ✅ How population sizes are distributed across different countries.
 
 
