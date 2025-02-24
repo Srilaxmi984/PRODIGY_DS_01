@@ -1,5 +1,5 @@
-## SUCESSFULLY COMPLETED MY FIRST TASK IN DATASCIENCE INTERNSHIP AT PRODIGY INFOTECH
-## TASK-01
+## Sucessfully completed my first task in datascience internship at prodigy infotech
+### TASK-01
 
 ### Visualizing Population Distribution
 
