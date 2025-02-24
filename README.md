@@ -52,6 +52,8 @@ Used seaborn.barplot() to compare their population sizes.
 
 
 📊 Output
+
+
 The histogram effectively shows the distribution of population sizes, while the bar chart provides a direct comparison of selected countries' populations.
 
 
