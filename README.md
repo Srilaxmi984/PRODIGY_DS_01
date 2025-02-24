@@ -1,6 +1,9 @@
 # PRODIGY_DS_01
 TASK-01
+
 World Population Data Visualization
+
+
 Task 01: Visualizing Population Distribution
 
 
@@ -18,7 +21,11 @@ I chose the Country column as the categorical data and the 2022 population value
 
 🔍 Data Analysis in Python
 Data Cleaning: Dropped unnecessary columns, renamed relevant ones, and removed missing values.
+
+
 Histogram: Used seaborn to create a histogram representing the distribution of population sizes.
+
+
 Bar Chart: Selected a few countries to compare their populations visually.
 
 
@@ -49,5 +56,9 @@ The histogram effectively shows the distribution of population sizes, while the 
 📈 Impact
 This visualization helps in understanding:
 ✅ How population sizes are distributed across different countries.
+
+
 ✅ How major countries compare in terms of population.
+
+
 ✅ Insights into population density and potential growth trends.
