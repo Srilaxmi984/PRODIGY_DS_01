@@ -1,13 +1,10 @@
 # PRODIGY_DS_01
-TASK-01
+## TASK-01
 
-World Population Data Visualization
-
-
-Task 01: Visualizing Population Distribution
+### Visualizing Population Distribution
 
 
-📄 Description
+📄Description
 For this task, I was assigned to create a histogram and a bar chart to visualize the world population distribution using a dataset.
 
 
